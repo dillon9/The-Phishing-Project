@@ -1,0 +1,11 @@
+From [manager]
+
+
+Subj Doughnuts
+
+Hello [employee],
+
+I've thoroughly enjoyed working with you so far and I wanted to give something back. If we were in person I would bring doughnuts, but alas, we are not. I've written an interactive Word document where you can give me your preference for kind of doughnut and I will mail you some. You'll need to click enable contents so that I can see what you enter, but other than that it should be pretty self explanatory. I look forward to seeing you again whenever that may be.  Stay safe!
+
+Best,
+[spoofed name] 

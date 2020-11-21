@@ -1,0 +1,11 @@
+From Manager
+
+Subj Meeting Change
+
+Hi [Middle Managers],
+
+I hope you're doing well on this fine Monday. I need to ask you to review this change to next meeting's programming. The document is encrypted for its security and only [organization] devices may open it. You'll need to enable contents to view it. Please distribute it to your respective departments after reviewing the content. I'll be in meetings most of the day so please hold your feedback for Tuesday.
+
+
+Best,
+[spoofed name]
