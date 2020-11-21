@@ -8,4 +8,5 @@ When writing good emails and accompanying emails, there are a few things to keep
 - Documents that need to be macros to operate are rare, keep your explanation simple and believable
 - Positive messages resonate with people much better than negative ones
 - Your first email, is your only shot. Once phishing is on people's mind they will be extra wary of emails for a few days
-- 
+
+The examples in each folder have been disarmed and it is recommended you design your own. These were all designed with a specific engagement in mind.
