@@ -1,6 +1,6 @@
 # The Art of SE
 
-When writing good emails and accompanying emails, there are a few things to keep in mind,
+When writing good emails and accompanying documents, there are a few things to keep in mind,
 
 - Keep it publicly available, a test that uses insider knowledge to spear phish employees demonstrates nothing
 - Know your audience, if targeting R&D, they're not going to be responsive to Policy Change X
